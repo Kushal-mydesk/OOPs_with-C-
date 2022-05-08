@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C___Program_From_The_Book_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/Documents/C++ Program(From The Book)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/Documents/C++ Program(From The Book)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C___Program_From_The_Book_">
+				<Option output="E:/Documents/C++ Program(From The Book)/cmake-build-debug/C___Program_From_The_Book_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Documents/C++ Program(From The Book)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 C___Program_From_The_Book_"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C___Program_From_The_Book_/fast">
+				<Option output="E:/Documents/C++ Program(From The Book)/cmake-build-debug/C___Program_From_The_Book_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Documents/C++ Program(From The Book)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 C___Program_From_The_Book_/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/Documents/C++ Program(From The Book)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/Documents/C++ Program(From The Book)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Extras/intpart_fracpart.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Extras/practice1.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Extras/theGetchLibrary.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Functions/Global_variables.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Functions/default_arguements.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Functions/engdisp.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Functions/overload.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Functions/recursion.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Functions/reference_arguements.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Functions/vararg.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Objects &amp; Classes/cards.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Objects &amp; Classes/counter.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Objects &amp; Classes/ecopycon.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Objects &amp; Classes/englcon.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Objects &amp; Classes/englobj.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Objects &amp; Classes/englret.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Objects &amp; Classes/objpart.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Objects &amp; Classes/smallobj.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Structures/cards.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Structures/checkstrc.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Structures/englarea.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Structures/englstrc.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/Structures/parts.cpp">
+			<Option target="C___Program_From_The_Book_"/>
+		</Unit>
+		<Unit filename="E:/Documents/C++ Program(From The Book)/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

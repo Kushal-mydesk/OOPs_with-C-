@@ -1,0 +1,106 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Documents/C++ Program(From The Book)/Extras/intpart_fracpart.cpp
+iostream
+-
+cmath
+-
+
+E:/Documents/C++ Program(From The Book)/Extras/practice1.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Extras/theGetchLibrary.cpp
+iostream
+-
+conio.h
+-
+
+E:/Documents/C++ Program(From The Book)/Functions/Global_variables.cpp
+iostream
+-
+conio.h
+-
+
+E:/Documents/C++ Program(From The Book)/Functions/default_arguements.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Functions/engdisp.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Functions/overload.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Functions/recursion.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Functions/reference_arguements.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Functions/vararg.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Objects & Classes/cards.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Objects & Classes/counter.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Objects & Classes/ecopycon.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Objects & Classes/englcon.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Objects & Classes/englobj.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Objects & Classes/englret.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Objects & Classes/objpart.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Objects & Classes/smallobj.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Structures/cards.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Structures/checkstrc.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Structures/englarea.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Structures/englstrc.cpp
+iostream
+-
+
+E:/Documents/C++ Program(From The Book)/Structures/parts.cpp
+iostream
+-
+
